@@ -32,7 +32,6 @@
     "papertrail",
     "heroku-postgresql",
     "rediscloud",
-    "sendgrid",
     "sentry",
     "scout"
   ],
